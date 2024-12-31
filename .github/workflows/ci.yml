@@ -40,8 +40,8 @@ jobs:
         with:
           commit_message: Dependencies Generation
           branch: ${{ github.head_ref }}
-          commit_user_name: MLPro Administration
-          commit_user_email: mlpro@listen.fh-swf.de
+          commit_user_name: Mochammad Rizky Diprasetya
+          commit_user_email: software@rizkydiprasetya.com
 
       - name: "Run if changes not detected"
         if: steps.auto-commit-action.outputs.changes_detected == 'false'
