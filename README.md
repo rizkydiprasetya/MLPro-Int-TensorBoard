@@ -1,5 +1,5 @@
-# MLPro-Int-Tensorboard - Integration between Tensorboard and MLPro
-Welcome to **MLPro-Int-Tensorboard**, a seamless integration of **TensorBoard** with **MLPro**, designed to provide an intuitive and interactive way to visualize and analyze machine learning experiments. This module combines the power of MLPro’s robust machine learning framework with TensorBoard’s state-of-the-art visualization capabilities, enabling developers and researchers to gain deeper insights into their models and workflows.
+# MLPro-Int-Tensorboard - Integration between TensorBoard and MLPro
+Welcome to **MLPro-Int-TensorBoard**, a seamless integration of **TensorBoard** with **MLPro**, designed to provide an intuitive and interactive way to visualize and analyze machine learning experiments. This module combines the power of MLPro’s robust machine learning framework with TensorBoard’s state-of-the-art visualization capabilities, enabling developers and researchers to gain deeper insights into their models and workflows.
 
 ## Key Features
 •	**Real-time Visualizations**: Track metrics such as loss, accuracy, and other custom performance indicators during training and testing.
